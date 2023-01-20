@@ -13,4 +13,4 @@
 ##### 8. Final Model Selection
 
 ### Final Conclusion :-
-##### NMF Model with Kullback-Leibler Divergence along with 't-sne' multi-dimensional space performed well and gave us the correct representation of topics.
+##### NMF Model with Kullback-Leibler Divergence along with 't-sne' multi-dimensional space performed well and correctly organized the words to give us an idea of topic, the words must be representing.
